@@ -1,16 +1,13 @@
-### Hi there 👋
+boas vindas ao meu perfil
 
-<!--
-**BotelhoPinto122/BotelhoPinto122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Gustavo Batissta Belo
 
-Here are some ideas to get you started:
+Estou estudando na [Alura] (https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos deenvolvido 
+
+voce entrar em contato comigo
+
+joao.batista.belo@escola.pr.gov.br
+
+![](https://media.tenor.com/RP_qoKH85xgAAAAd/the-rock-sus-the-rock-meme.gif)
