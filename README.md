@@ -1,6 +1,6 @@
 boas vindas ao meu perfil
 
-Meu nome é João Gustavo Batissta Belo
+Meu nome é João Gustavo Batista Belo
 
 Estou estudando na [Alura] (https://www.alura.com.br)
 
